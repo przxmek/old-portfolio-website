@@ -1,8 +1,0 @@
-# Project root directories
-.idea
-coverage
-dist
-node_modules
-
-# Project root files
-npm-debug.log
